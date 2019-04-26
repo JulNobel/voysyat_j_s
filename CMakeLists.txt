@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.0)
 
-project(polevoy_d_v)
+project(voysyat_j_s)
 
 # Determine the platform
 # -----------------------------------------------------------------------
