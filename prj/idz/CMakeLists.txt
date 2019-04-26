@@ -9,7 +9,7 @@ set(PUBLIC_HEADERS MeanShift.h)
 
 set(HEADERS ${PUBLIC_HEADERS})
 
-set(SOURCES MeanShift.cpp Maincpp.cpp findContours_demo.cpp)
+set(SOURCES MeanShift.cpp Maincpp.cpp)
 
 add_executable(idz ${HEADERS} ${SOURCES})
 
